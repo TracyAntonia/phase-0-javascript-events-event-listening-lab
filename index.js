@@ -8,7 +8,13 @@ function addingEventListener() {
     alert("I was clicked!");
     btn.addEventListener("click", clickAlert);
 }
+
 addingEventListener()
+
+
+
+
+
 
 
 
